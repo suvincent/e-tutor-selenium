@@ -1,4 +1,7 @@
 py-venv
 chromedriver.exe
 config.py
-output.csv
+studentList.xlsx
+HW1_score
+score_mapping.ipynb
+__pycache__
